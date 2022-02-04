@@ -134,7 +134,7 @@ const pageHTML = function (employeeCards) {
         font-size: 20px;
       }
       a{
-        font-size: 20px;
+        font-size: 18px;
       }
     </style>
 </head>
