@@ -28,7 +28,7 @@
   ###### [Back to Table of Contents](#table-of-contents)
   User accesses the Terminal, inserts "node index.js" from there, you will be prompted basic questions on the teams profile. Based on your answers you will generate a HTML file that will be neatly formatted show the teams profile.
 
-  Watch this Video for a walk through of the app [Application Demo](https://watch.screencastify.com/v/FcBmVoc5DDI9QLCuNjDG)
+  Watch this Video for a walk through of the app [Application Demo](https://watch.screencastify.com/v/oGK84DqgTRWJKGDKlthU)
 
   ---
 
